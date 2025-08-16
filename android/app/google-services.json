@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123272540650",
+    "project_id": "famconnect-417fa",
+    "storage_bucket": "famconnect-417fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123272540650:android:c4f1f17dc3085ae2ecc293",
+        "android_client_info": {
+          "package_name": "com.example.famconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB10RwjDSFmuOLkuaw_PHh4d0vc4nrOzKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
